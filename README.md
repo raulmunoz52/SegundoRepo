@@ -12,4 +12,4 @@
     1. sub lista ordenada
 2. lista ordenada
 
-[Guia markdown](https://www.google.es/)
+[Enlace a Google](https://www.google.es/)
