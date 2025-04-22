@@ -7,5 +7,4 @@ asdf
 asdf
 
 
-conflicto otro  
-j
+conflicto otro 
